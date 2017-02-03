@@ -1,0 +1,23 @@
+*{box-sizing: border-box;}
+body,ul,li,p,h1,h2,h3,h4,h5,h6,dl,dt,dd {
+    margin:0px;
+    padding:0px;
+    border:none;
+    list-style:none;
+    font:100 12px "Microsoft YaHei";
+}
+.lf {float:left;}
+.rt {float:right;}
+.clear  {clear:both;}
+a{ color:#000;}
+a:link,a:visited{
+	text-decoration:none;
+}
+a:hover{
+	color:#23ac38;
+	text-decoration:none;	
+}
+input{
+    outline:none;
+    border: none;
+}
